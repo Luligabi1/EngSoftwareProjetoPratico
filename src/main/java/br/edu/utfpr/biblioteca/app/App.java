@@ -15,5 +15,6 @@ public class App {
         Exemplar exemplar3 = new Exemplar(3);
         domQuixote.add(exemplar1, exemplar2, exemplar3);
         domQuixote.mostrarExemplares();
+
     }
 }
